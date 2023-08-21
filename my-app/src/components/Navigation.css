@@ -1,0 +1,10 @@
+.App-header{
+    display: flex;
+    justify-content: start;
+    background: #282c34;
+    }
+    
+    .App-nav ul a{
+      margin: 10px;
+      color: white;
+    }
